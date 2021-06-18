@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+
+/*pages start*/
+.pages{
+    font-size: 25px;
+    padding: 100px;
+    text-transform: uppercase;
+}
+/*pages end*/
+
+/*heading start*/
+.heading{
+    text-align: left;
+}
+.heading1{
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+    text-align: center;
+}
+/*heading end*/
+
+
+/*paragraph start*/
+.p{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border: 3px solid rgb(255, 4, 4);
+    padding: 10px;
+}
+/*paragraph end*/
+
+
+/*photo start*/
+.image{
+    width: 400px;
+    height: 350px;
+    border: 3px dotted red;
+    border-radius: 10px;
+    margin: 20px;
+}
+.image2{
+    width: 400px;
+    height: 350px;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding: 30px 100px;
+}
+/*photo end*/
+/*aside start*/
+
+.aside{
+    margin: 10px;
+    width: 40%;
+    padding-left: 25px;
+    margin-left: 25px;
+    float: right;
+    color: rgb(251, 251, 251);
+    font-style: italic;
+    background-color: rgb(0, 0, 0);
+}
+/*aside end*/
+.blockquote{
+    margin-left: 100px;
+}
+.button{
+    margin: 60px;
+    padding: 20px;
+}

@@ -1,0 +1,34 @@
+note
+
+
+FACEBOOK:-
+https://www.facebook.com/aibulbul10
+https://www.facebook.com/aibulbul100
+FACEBOOK PAGE:-
+https://www.facebook.com/aibulbul1000
+GITHUB:-
+https://www.github.com/aibulbul
+LINKEDIN:-
+https://www.linkedin.com/in/aibulbul
+ISNTAGRAM:-
+https://www.instagram.com/aibulbul10
+TWITTER:-
+https://www.twitter.com/aibulbul100
+YOUTUBE:-
+https://youtube.com/channel/UCy1ni9Paxs181Sqy8e6c26g
+
+      
+
+         html comment
+
+        <!--comment start--> 
+        <!--comment end-->
+
+
+
+
+          css comment
+
+
+              /**/
+             /**/
